@@ -36,7 +36,7 @@ uselatex = true
 [[menu.primary]]
 identifier = "author"
 name = "Author"
-url = "/about/"
+url = "/author/"
 weight = 1
 
 
