@@ -5,10 +5,4 @@ description: "Blog author introduction"
 menu: "main"
 ---
 
-Who? 
-
-What? 
-
-Where?
-
-Why?
+*insert self introduction*
