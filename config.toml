@@ -8,6 +8,12 @@ theme = "hugo-renga"
 enableEmoji = true
 hasCJKLanguage = true
 
+googleAnalytics = "UA-147123435-1"
+
+
+
+
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
