@@ -5,8 +5,12 @@ menu: "main"
 title: "Home"
 ---
 
-I'm **Trang Nguyen**, welcome to my website, where I write about statistics, psychology, and politics, among other things. 
+Hi! I'm **Trang Nguyen**, welcome to my website, where I write about statistics, psychology, and politics, among other things.
 
-For more information about myself and contact information, please see the Author page. 
+On this website, you can learn more about myself and what I've been up to recently, browse my personal canon and read my blog. Feel free to contact me to collaborate or just to chat.  
+
+
+
+
 
 
