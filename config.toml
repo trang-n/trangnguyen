@@ -40,14 +40,34 @@ progressively = false
 uselatex = true
   
 [[menu.primary]]
-identifier = "author"
-name = "Author"
-url = "/author/"
+identifier = "about"
+name = "about"
+url = "/about/"
 weight = 1
 
 [[menu.primary]]
 identifier = "blog"
 name = "Blog"
 url = "/blog/"
+weight = 3
+
+[[menu.primary]]
+identifier = "canon"
+name = "Canon"
+url = "/canon/"
+weight = 4
+
+[[menu.primary]]
+identifier = "ongoing"
+name = "Ongoing"
+url = "/ongoing/"
 weight = 2
+
+[[menu.primary]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 5
+
+
 
