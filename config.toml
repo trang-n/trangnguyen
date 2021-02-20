@@ -51,23 +51,23 @@ name = "Blog"
 url = "/blog/"
 weight = 3
 
-[[menu.primary]]
-identifier = "canon"
-name = "Canon"
-url = "/canon/"
-weight = 4
+#[[menu.primary]]
+#identifier = "canon"
+#name = "Canon"
+#url = "/canon/"
+#weight = 4
 
-[[menu.primary]]
-identifier = "ongoing"
-name = "Ongoing"
-url = "/ongoing/"
-weight = 2
+#[[menu.primary]]
+#identifier = "ongoing"
+#name = "Ongoing"
+#url = "/ongoing/"
+#weight = 2
 
-[[menu.primary]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 5
+#[[menu.primary]]
+#identifier = "contact"
+#name = "Contact"
+#url = "/contact/"
+#weight = 5
 
 
 
