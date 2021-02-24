@@ -7,7 +7,7 @@ title: "Home"
 
 Hi! I'm **Trang Nguyen**, welcome to my website where I write about statistics, psychology, and politics, among other things.
 
-On this website, you can read my [blog](/blog/), browse my personal canon, learn more about myself and what I've been up to recently. Feel free to contact me to collaborate or just to chat.  
+On this website, you can read my [blog](/blog/), browse my [personal canon](/canon/), learn more [about](/about/) myself and what I've been [up to](/recentinterests/) recently. Feel free to [contact](/contact/) me to collaborate or just to chat.  
 
 
 
