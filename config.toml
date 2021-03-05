@@ -29,12 +29,14 @@ pagetitle = "Trang Nguyen"
 copyright = "© 2021 Trang Nguyen"
 
 copyrightUrl = "/"
-email = "trangnnnguyen@gmail.com"
+
 faviconfile = "image/logo.jpg"
+logofile = "image/avatar.jpg"
 github = "trang-n"
-twitter = "trangsfigure"
 linkedin = "trang-n"
-logofile = "image/avatar.jpg" 
+twitter = "trangsfigure"
+email = "trangnnnguyen@gmail.com"
+ 
 highlightjs = true
 posts_navigation = true
 progressively = false
@@ -51,7 +53,6 @@ uselatex = true
   name = "Blog"
   url = "/blog/"
   weight = 1
-
 
 
 

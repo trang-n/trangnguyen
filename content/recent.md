@@ -9,11 +9,11 @@ Below is a non-exhaustive list of my current projects/priorities. If you happen 
 ### Learning
 
 - R & Python Programming
-- Statistics and Research Design
-- French & Spanish
+- Applied statistics and research design
 - How to keep my plants from dying
 - Classical Guitar 
 - Read more about psychology and neuroscience
+- French & Spanish
 
 
 ### Making
@@ -22,4 +22,6 @@ Below is a non-exhaustive list of my current projects/priorities. If you happen 
 - Writing about things I learn/experience
 - Food from different cultures
 - Watercolor paintings
+
+
 
