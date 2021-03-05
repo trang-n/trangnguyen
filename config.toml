@@ -30,11 +30,11 @@ copyright = "© 2021 Trang Nguyen"
 
 copyrightUrl = "/"
 email = "trangnnnguyen@gmail.com"
-faviconfile = "image/logo.png"
+faviconfile = "image/logo.jpg"
 github = "trang-n"
 twitter = "trangsfigure"
 linkedin = "trang-n"
-logofile = "image/ava.jpg" 
+logofile = "image/avatar.jpg" 
 highlightjs = true
 posts_navigation = true
 progressively = false
