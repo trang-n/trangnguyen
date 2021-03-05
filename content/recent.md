@@ -1,6 +1,6 @@
 ---
 date: "2021-02-10"
-description: "Interests"
+description: "recent interests"
 menu: "main"
 ---
 
@@ -8,7 +8,7 @@ Below is a non-exhaustive list of my current projects/priorities. If you happen 
 
 ### Learning
 
-- Advanced R Programming
+- R & Python Programming
 - Statistics and Research Design
 - French & Spanish
 - How to keep my plants from dying
