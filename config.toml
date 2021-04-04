@@ -56,9 +56,9 @@ uselatex = true
 
 
 [[menu.primary]]
-  identifier = "recent"
-  name = "Recent Interests"
-  url = "/recent/"
+  identifier = "interests"
+  name = "Interests"
+  url = "/interests/"
   weight = 3
 
 [[menu.primary]]
