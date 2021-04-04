@@ -4,24 +4,32 @@ description: "recent interests"
 menu: "main"
 ---
 
-Below is a non-exhaustive list of my current projects/priorities. If you happen to be working on anything related, I'd love to hear from you to learn and/or collaborate. 
+Below is a non-exhaustive list of my current projects and interests. If you happen to be working on anything related, I'd love to hear from you. 
 
 ### Learning
 
-- R & Python Programming
-- Applied statistics and research design
-- How to keep my plants from dying
+- Statistics and its applications
+- Solving problems in R/Python
+- Contribute to open source projects
 - Classical Guitar 
-- Read more about psychology and neuroscience
 - French & Spanish
-
+- How to keep my plants from dying
 
 ### Making
 
-- Building this minimalist blog/portfolio
-- Writing about things I learn/experience
+- This minimalist blog
 - Food from different cultures
-- Watercolor paintings
+- Surrealist paintings
+
+
+### Interested in
+
+- Board games creation
+- Song-writing
+- Woodworking
+- Winter sports (skiing/snowboarding)
+- Gardening
+
 
 
 
