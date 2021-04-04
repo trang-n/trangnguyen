@@ -55,7 +55,6 @@ uselatex = true
   weight = 1
 
 
-
 [[menu.primary]]
   identifier = "recent"
   name = "Recent Interests"
