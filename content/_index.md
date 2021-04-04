@@ -1,6 +1,6 @@
 ---
 date: "2021-02-10"
-description: "Site introduction"
+description: "Trang's Website"
 menu: "main"
 title: "Home"
 ---

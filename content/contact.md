@@ -1,5 +1,5 @@
 ---
-description: "contact"
+description: "Get in touch with me"
 menu: "main"
 ---
 
