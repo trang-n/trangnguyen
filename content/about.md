@@ -4,7 +4,7 @@ description: "Blog's author introduction"
 menu: "main"
 ---
 
-Hi, my name is Trang Nguyen, or more appropriately, Nguyễn Như Ngọc Trang. I was born and raised in Vũng Tàu, Việt Nam and came to the U.S. for college by myself when I was 18. My pronouns are she/her and they/them.
+My name is Trang Nguyen, or more appropriately, Nguyễn Như Ngọc Trang. I was born and raised in Vũng Tàu, Việt Nam and came to the U.S. for college by myself when I was 18. My pronouns are she/her and they/them.
 
 Currently, I'm analyzing population data to inform health and education policies at a [global health research institute](http://www.healthdata.org/) based in Seattle, WA.
 
