@@ -1,6 +1,7 @@
 ---
+title: "Interests"
 date: "2021-02-10"
-description: "Recent interests"
+description: "Interests"
 menu: "main"
 ---
 

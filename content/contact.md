@@ -1,4 +1,5 @@
 ---
+title: "Contact"
 description: "Get in touch with me"
 menu: "main"
 ---
