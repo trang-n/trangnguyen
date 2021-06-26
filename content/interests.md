@@ -11,25 +11,23 @@ Below is a non-exhaustive list of my current projects and interests. If you happ
 
 - Statistics and its applications
 - Solving problems in R/Python
-- Contribute to open source projects
-- Classical Guitar 
-- French & Spanish
+- Data Engineering
 - How to keep my plants from dying
 
 ### Making
 
 - This minimalist blog
-- Food from different cultures
-- Surrealist paintings
+- Food from different cultures/Baking
 
 
-### Interested in
+### Interested in/Dabbled in
 
 - Board games creation
 - Song-writing
 - Woodworking
+- Pottery
 - Winter sports (skiing/snowboarding)
-- Gardening
+
 
 
 
