@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Trang Nguyen</title>
+    <link>https://trang.rbind.io/</link>
+    <description>Recent content in Home on Trang Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://trang.rbind.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog Post</title>
+      <link>https://trang.rbind.io/blog/posts/first-post/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://trang.rbind.io/blog/posts/first-post/</guid>
+      <description>My first blog post! I created this website so I can keep track of my hobbies including books and games. I also want to write about different subjects such as statistics, R, Python, and languages as I learn more about them.
+This website was built in R using the blogdown package and Hugo, deployed and hosted via Netlify. I chose a minimalist theme called Renga, developed by Nan Xiao.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://trang.rbind.io/canon/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://trang.rbind.io/canon/</guid>
+      <description>Page under construction! This page will be about the resources that influence my thinking &amp;amp; beliefs. Feel free to check back later :)</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://trang.rbind.io/about/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://trang.rbind.io/about/</guid>
+      <description>My name is Trang Nguyen (she/they). I was born and raised in Việt Nam and came to the U.S. for college by myself when I was 18.
+Currently, I&amp;rsquo;m analyzing population data to inform health and education policies at a global health research institute based in Seattle, WA.
+Previously, I worked in the non-profit sector in NYC and Boston, providing legal resources for the low-income population, conducting research to inform immigrant policies, and immigrant youth organizing.</description>
+    </item>
+    
+    <item>
+      <title>Interests</title>
+      <link>https://trang.rbind.io/interests/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://trang.rbind.io/interests/</guid>
+      <description>Below is a non-exhaustive list of my current projects and interests. If you happen to be working on anything related, I&amp;rsquo;d love to hear from you.
+Learning  Statistics and its applications Solving problems in R/Python Data Engineering How to keep my plants from dying  Making  This minimalist blog Food from different cultures/Baking  Interested in/Dabbled in  Board games creation Song-writing Woodworking Pottery Winter sports (skiing/snowboarding)  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://trang.rbind.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trang.rbind.io/contact/</guid>
+      <description>My inbox is always open for any inquiries and interesting conversations. I also prefer talking face-to-face if possible, be it video-calling or meeting in person.
+If we haven&amp;rsquo;t met in real life, please feel free to contact me via email. My non-urgent email response time ranges from 1 to 7 days.</description>
+    </item>
+    
+  </channel>
+</rss>

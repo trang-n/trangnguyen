@@ -1,0 +1,18 @@
+---
+title: First Blog Post
+author: Trang Nguyen
+date: '2021-04-04'
+tags:
+  - personal
+description: First post
+output: html_output
+#draft: true
+---
+
+
+My first blog post! I created this website so I can keep track of my hobbies including books, games, coding and other topics as I feel like it.  
+
+I built this website in [R](https://www.r-project.org/about.html), using the [blogdown](https://github.com/rstudio/blogdown) package and [Hugo](https://gohugo.io/). It's deployed and hosted via [Netlify](https://www.netlify.com/). I chose a minimalist theme called [Renga](https://github.com/nanxstats/hugo-renga), developed by Nan Xiao. 
+
+I'm new to web development and would love to learn from others on how customize my website. 
+
