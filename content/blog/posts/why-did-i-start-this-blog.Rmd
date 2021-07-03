@@ -1,0 +1,54 @@
+---
+title: Why did I start this blog?
+author: Trang Nguyen
+date: "2021-07-03"
+tags:
+  - blogging
+  - personal
+categories: []
+slug: why-did-I-start-this-blog
+output: html_document
+---
+
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 0.3 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β29
+* Tue Jun 29 2021 09:00:02 GMT-0700 (PDT)
+* Source doc: post2
+----->
+
+
+  I started this blog on the spur of a moment because I was so inspired by all of the amazing bloggers that have helped me every time I frantically looked for data/coding explanations online. Now that I've created the blog, I found myself asking: "why did I do this to myself? what should I even write about?" In my experience, if I struggle with **'what'**, I should probably know my **'why'** better. So below is my attempt to reason with the devil's advocate that has been very persistent in my head:
+
+
+
+**1. If my purpose is to learn and retain knowledge, I can just write in a notebook, why publish it?**
+
+Yes, but publishing what I've learned will force myself to know the material inside out, effectively communicate it to the public, and potentially receive feedback from subject matter experts. Blogging about what I learn will also help extend the retention of my knowledge, and deepen my understanding on the subject matter.
+
+
+
+**2. If my purpose is to share knowledge, isn't there tons of that information online already?**
+
+With a simple google search on basic python or R questions, you probably will find more information than you will ever need. Being a community-taught programmer and long-time writer, I want to be able to pay it forward to the community by contributing to the existing ecosystem of learning resources, in my own way. 
+
+
+
+**3. If my purpose is to improve my English writing, didn't I just spend 4 years doing just that?**
+
+There’s no denying that 4 years of continuously reading and writing academic papers has drained out my interests in reading and writing so much that it took me years to get back to leisure reading (aka fiction). This blog is my attempt to get back to leisure writing. Even though I have extensive training in academic writing, I still have a lot to learn about creative writing and non-fiction writing. Lastly, writing is self-expression and healthy self-expression is self-care.
+
+I think I’ve had enough reasons to start writing now. 
