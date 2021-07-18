@@ -10,26 +10,6 @@ slug: why-did-I-start-this-blog
 output: html_document
 ---
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.3 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Tue Jun 29 2021 09:00:02 GMT-0700 (PDT)
-* Source doc: post2
------>
-
 
   I started this blog on the spur of a moment because I was so inspired by all of the amazing bloggers that have helped me every time I frantically looked for data/coding explanations online. Now that I've created the blog, I found myself asking: "why did I do this to myself? what should I even write about?" In my experience, if I struggle with **'what'**, I should probably know my **'why'** better. So below is my attempt to reason with the devil's advocate that has been very persistent in my head:
 
