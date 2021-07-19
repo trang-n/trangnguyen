@@ -7,7 +7,8 @@ tags:
   - book notes
 desciption: Rubyfruit Jungle quotes
 output: html_document
-#draft: True
+# draft: True
+# need to add picture, look into book review templates
 ---
 
 This was my first fiction read in a long time and it was a prefect book to return to. Some of the best quotes from the book are:

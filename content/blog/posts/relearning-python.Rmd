@@ -13,7 +13,7 @@ output: html_output
 ---
 
 
-As I'm changing team at work, I've decided to brush up on my Python skill. After digging on the internet for a couple of days, I have chosen to learn from books and projects instead of online courses like I usually do. I have found that books go much deeper than online courses and projects will help me apply what I've learned more systematically. Additionally, I no longer have an incentive to obtain a completion certification.
+As I'm changing team at work, I've decided to brush up on my Python skill. After digging on the internet for a couple of days, I have chosen to learn from books and projects instead of online courses like I usually do. I have found that books go much deeper than online courses and projects will help me apply what I've learned more systematically. Additionally, I no longer have an incentive to obtain a completion certification from online courses and it makes me happy to just learn for the sake of learning.
 
 **Books I'm using:**
 
