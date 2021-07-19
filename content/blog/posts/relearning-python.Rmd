@@ -1,0 +1,33 @@
+---
+title: A Syllabus for Relearning Python
+author: Trang Nguyen
+date: '2021-07-19'
+cateogries: []
+tags:
+  - python
+  - resources
+  - self-taught
+description: Relearning Python syllabus
+output: html_output
+#draft: true
+---
+
+
+As I'm changing team at work, I've decided to brush up on my Python skill. After digging on the internet for a couple of days, I have chosen to learn from books and projects instead of online courses like I usually do. I have found that books go much deeper than online courses and projects will help me apply what I've learned more systematically. Additionally, I no longer have an incentive to obtain a completion certification.
+
+**Books I'm using:**
+
+1. [Automate the Boring Stuff](https://automatetheboringstuff.com/) with Python by Al Sweigart (20 Chapters)
+2. [Beyond the Basic Stuffs](https://inventwithpython.com/beyond/) with Python by Al Sweigart (17 Chapters)
+3. [The Big Book of Small Python](https://inventwithpython.com/bigbookpython/) Projects by Al Sweigart
+
+The goal is to finish **Book 1** and **Book 2** and complete at least 2-5 projects from **Book 3** in the next 2 weeks. 
+
+**Schedule:**
+
+- 3-4 chapters/day and 1-3 projects on weekend
+- 6 days/week.
+- 1 - 3hr/day depending on my workload.
+- **Book 1** and **Book 2** on weekday and **Book 3** on the weekend or not-so-busy workday.
+
+I plan to push my study notes/codes on [github](https://github.com/trang-n) to keep track of my progress. I will be writing updates at the end of the week to summarize what I've learned.
